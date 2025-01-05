@@ -42,7 +42,7 @@ Power BI was used to create visually appealing dashboards to provide insights in
 
 ### Insights & Actions:
 - **Customer Retention**: The report highlights months where customer exits spiked, suggesting possible reasons (e.g., external economic factors, product dissatisfaction).
-- **Credit Score **: By analyzing exit customers' credit scores, the bank can identify if lower-credit score individuals tend to exit more frequently, prompting potential actions for improving relationships with this segment.
+- **Credit Score**: By analyzing exit customers' credit scores, the bank can identify if lower-credit score individuals tend to exit more frequently, prompting potential actions for improving relationships with this segment.
 - **Demographics**: Gender and credit card ownership segments provide further granularity to analyze the likelihood of different customer groups exiting.
 
 ## How to Use:
